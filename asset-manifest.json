@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web2-handin2-v2/static/css/main.4cea6c12.css",
+    "main.js": "/web2-handin2-v2/static/js/main.bab4d83f.js",
+    "static/js/787.8bb336bb.chunk.js": "/web2-handin2-v2/static/js/787.8bb336bb.chunk.js",
+    "index.html": "/web2-handin2-v2/index.html",
+    "main.4cea6c12.css.map": "/web2-handin2-v2/static/css/main.4cea6c12.css.map",
+    "main.bab4d83f.js.map": "/web2-handin2-v2/static/js/main.bab4d83f.js.map",
+    "787.8bb336bb.chunk.js.map": "/web2-handin2-v2/static/js/787.8bb336bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cea6c12.css",
+    "static/js/main.bab4d83f.js"
+  ]
+}
