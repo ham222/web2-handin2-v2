@@ -2,7 +2,7 @@
   "name": "handin2",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://ham222.github.io/WEB2-handin2",
+  "homepage": "https://ham222.github.io/web2-handin2-v2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
